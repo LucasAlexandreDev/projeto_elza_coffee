@@ -2,6 +2,7 @@ body{
     background-image: url(../img/Home\ Page-2.png);
     background-repeat: no-repeat;
     background-size: cover;
+    padding: 10px;
     
 }
 
@@ -37,7 +38,7 @@ a{
 }
 
 .logo{
-    padding-left: 34px;
+    margin-left: 34px;
 }
 
 a:hover{
@@ -90,10 +91,6 @@ h1{
 
 .botao span{
     font-size: 25px;
-}
-
-.botao div:hover{
-    background-color:#F7E1BC ;
 }
 
 .sobremesa{
@@ -173,8 +170,6 @@ main {
     overflow: visible;
 }
 
-
-
 .maquina {
     position: absolute;
     width: 140%;        
@@ -202,5 +197,4 @@ main {
     width: 900px;
     margin-left: 800px;
     margin-top: 220px;
-
 }
